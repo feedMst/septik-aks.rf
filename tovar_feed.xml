@@ -30,7 +30,7 @@
    </offer>
    <offer id="1683035822731" available="true">
     <name>Станция AKC ST 4</name>
-    <price>97599</price>
+    <price>97500</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture>https://static.tildacdn.com/tild3538-6661-4165-a430-313564326336/AKC_ST_04.png</picture>
@@ -81,7 +81,7 @@
    </offer>
    <offer id="1649160883302" available="true">
     <name>Станция AKC ST 10</name>
-    <price>89900</price>
+    <price>179900</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture>https://static.tildacdn.com/tild3637-6239-4662-b265-666534623936/AKC_ST_10.png</picture>
